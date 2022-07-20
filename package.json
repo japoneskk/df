@@ -1,0 +1,19 @@
+{
+  "name": "prime-cheats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DouglasCS26",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^13.8.0",
+    "mercadopago": "^1.5.13",
+    "mongoose": "^6.3.8",
+    "mongoose-sequence": "^5.3.1",
+    "util": "^0.12.4"
+  }
+}

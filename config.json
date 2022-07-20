@@ -1,0 +1,6 @@
+{
+    "token":"TOKEN DO BOT",
+    "prefix":".",
+    "mongo_key": "LINK DA MONGODB",
+    "accessToken": "API DO MERCADO PAGO"
+}
